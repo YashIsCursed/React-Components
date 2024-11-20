@@ -5,7 +5,7 @@
 <br/>
     <img src='./components/SVGLogo/Logo.svg' alt='DEV +CSS Logo' /><br/>
 
-[SVG + CSS component](https://github.com/YashIsCursed/React-Components/components/SVGLogo/Logo.jsx)
+[SVG + CSS component](https://github.com/YashIsCursed/React-Components/tree/main/components/SVGLogo)
 
 
 ### React Component
